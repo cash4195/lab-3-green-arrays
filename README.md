@@ -1,1 +1,2 @@
-# lab-3-green-arrays
+# lab-3-green-arrayus
+Project Team Members: Steven
