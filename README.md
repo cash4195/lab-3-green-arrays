@@ -1,10 +1,7 @@
 # lab-3-green-arrays
-<<<<<<< HEAD
+
 Project Team Members:
-Sophie lei
-edit
-=======
-# project team members:
+Sophie lei 
 Cameron Shapoorian
-EDIT!
->>>>>>> main
+
+
