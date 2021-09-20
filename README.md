@@ -1,5 +1,8 @@
 # lab-3-green-arrays
-# project team members:
+
+Project Team Members:
+
+Sophie lei 
 Cameron Shapoorian
 Ben Spicer
-EDIT!
+Steven
