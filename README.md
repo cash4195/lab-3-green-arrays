@@ -4,9 +4,4 @@ Project Team Members:
 Sophie lei 
 Cameron Shapoorian
 Steven
-<<<<<<< HEAD
-Ben
-=======
-Edit!
-
->>>>>>> main
+edit!
