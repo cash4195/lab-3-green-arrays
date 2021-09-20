@@ -2,5 +2,6 @@
 # project team members:
 Cameron Shapoorian
 Steven
+sophie 
 Edit!
 
