@@ -4,6 +4,5 @@ Project Team Members:
 
 Sophie lei 
 Cameron Shapoorian
+Ben Spicer
 Steven
-Edit!
-
